@@ -1,0 +1,38 @@
+#contenedor{
+	height:50;
+	margin:auto;
+	background-color:#7D7D7D;
+}
+
+#encabezado{
+	text-align:center;
+	background-color:#EFD80E;
+	align-self:center;
+}
+
+#menu{
+	background-color:#646464;
+	text-align:center;
+}
+
+#izquierda{
+	float:right;
+	background-color:B4B3A8;
+	width:20%;
+}
+
+#derecha{
+	background-color:646464;
+	float:left;
+	width:80%;
+	text-align:center;
+}
+
+#piepagina{
+	float:left;
+	color:both;
+	background-color:FF0000;
+}
+.img{
+	width:50px;
+	heigth:50px;
